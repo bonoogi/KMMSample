@@ -1,0 +1,173 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.DS_Store
+.idea/shelf
+/confluence/target
+/dependencies/repo
+/android.tests.dependencies
+/dependencies/android.tests.dependencies
+/dist
+/local
+/gh-pages
+/ideaSDK
+/clionSDK
+/android-studio/sdk
+out/
+/tmp
+workspace.xml
+*.versionsBackup
+/idea/testData/debugger/tinyApp/classes*
+/jps-plugin/testData/kannotator
+/js/js.translator/testData/out/
+/js/js.translator/testData/out-min/
+/js/js.translator/testData/out-pir/
+.gradle/
+build/
+!**/src/**/build
+!**/test/**/build
+*.iml
+!**/testData/**/*.iml
+.idea/libraries/Gradle*.xml
+.idea/libraries/Maven*.xml
+.idea/artifacts/PILL_*.xml
+.idea/artifacts/KotlinPlugin.xml
+.idea/modules
+.idea/runConfigurations/JPS_*.xml
+.idea/runConfigurations/PILL_*.xml
+.idea/libraries
+.idea/modules.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/.name
+.idea/artifacts/dist_auto_*
+.idea/artifacts/dist.xml
+.idea/artifacts/ideaPlugin.xml
+.idea/artifacts/kotlinc.xml
+.idea/artifacts/kotlin_compiler_jar.xml
+.idea/artifacts/kotlin_plugin_jar.xml
+.idea/artifacts/kotlin_jps_plugin_jar.xml
+.idea/artifacts/kotlin_daemon_client_jar.xml
+.idea/artifacts/kotlin_imports_dumper_compiler_plugin_jar.xml
+.idea/artifacts/kotlin_main_kts_jar.xml
+.idea/artifacts/kotlin_compiler_client_embeddable_jar.xml
+.idea/artifacts/kotlin_reflect_jar.xml
+.idea/artifacts/kotlin_stdlib_js_ir_*
+.idea/artifacts/kotlin_test_js_ir_*
+.idea/artifacts/kotlin_stdlib_wasm_*
+.idea/jarRepositories.xml
+kotlin-ultimate/
+node_modules/
+.rpt2_cache/
+libraries/tools/kotlin-test-js-runner/lib/
+local.properties
+buildSrcTmp/
+distTmp/
+outTmp/
+# Gradle
+# ------
+.gradle
+/build
+/buildSrc/build
+/buildSrc/subprojects/*/build
+/subprojects/*/build
+/subprojects/docs/src/samples/**/build
+/subprojects/docs/src/snippets/**/build
+/subprojects/internal-android-performance-testing/build-android-libs
+
+# IDEA
+# ----
+!/.idea
+/.idea/*
+!/.idea/codeStyles
+!/.idea/inspectionProfiles
+!/.idea/icon.png
+!/.idea/icon_dark.png
+*/**/.idea
+.shelf
+/*.iml
+/*.ipr
+/*.iws
+/buildSrc/.idea
+/buildSrc/.shelf
+/buildSrc/*.iml
+/buildSrc/*.ipr
+/buildSrc/*.iws
+/buildSrc/out
+/buildSrc/subprojects/*/*.iml
+/buildSrc/subprojects/*/out
+/out
+/subprojects/*/*.iml
+/subprojects/*/out
+/.teamcity/*.iml
+/.teamcity/target
+
+# Eclipse
+# -------
+*.classpath
+*.project
+*.settings
+/bin
+/subprojects/*/bin
+atlassian-ide-plugin.xml
+.metadata/
+
+# NetBeans
+# --------
+.nb-gradle
+.nb-gradle-properties
+
+# Vim
+# ---
+*.sw[nop]
+
+# Emacs
+# -----
+*~
+\#*\#
+.\#*
+
+# Textmate
+# --------
+.textmate
+
+# Sublime Text
+# ------------
+*.sublime-*
+
+# jEnv
+# ----
+.java-version
+
+# macOS
+# ----
+.DS_Store
+
+# HPROF
+# -----
+*.hprof
+
+# Work dirs
+# ---------
+/incoming-distributions
+/intTestHomeDir
+
+# Logs
+# ----
+/*.log
+
+# oh-my-zsh gradle plugin
+.gradletasknamecache
